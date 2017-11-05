@@ -1,0 +1,43 @@
+<!-- Static navbar -->
+<div class="navbar navbar-inverse navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="">高级软件工程</a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/">主页</a></li>
+        <li><a href="/about">关于</a></li>
+        <li><a href="/studentInfo">数据</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
+
+<!-- +++++ Welcome Section +++++ -->
+<div id="ww">
+    <div class="container">
+        <div class="row">
+            <h2>添加学生信息</h2>
+            <%= render 'form' %>
+            <%= link_to '返回', student_infos_path %>
+
+        </div><!-- /row -->
+    </div> <!-- /container -->
+</div><!-- /ww -->
+
+
+<!-- +++++ Footer Section +++++ -->
+	
+<div id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4">
+				<p>中国科学院大学，北京, 中国</p>
+			</div>
+			
+		</div>
+	
+	</div>
+</div>
+

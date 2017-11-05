@@ -1,0 +1,31 @@
+<%= form_for(@student_info) do |f| %>
+  <% if @student_info.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@student_info.errors.count, "error") %> prohibited this student_info from being saved:</h2>
+
+      <ul>
+      <% @student_info.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label "姓名" %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label "学号" %><br>
+    <%= f.number_field :number %>
+  </div>
+  <div class="field">
+    <%= f.label "专业" %><br>
+    <%= f.text_field :major %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br>
+    <%= f.text_field :email %>
+  </div>
+ 
+<% end %>
