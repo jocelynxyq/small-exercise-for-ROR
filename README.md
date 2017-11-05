@@ -1,28 +1,21 @@
-== README
+# 高级软件工程第一次作业
+---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+本项目为中国科学院大学高级软件工程课程第一次作业内容。
 
-Things you may want to cover:
+项目主体:在Ruby On Rails框架中实现一个简单主页，完成
 
-* Ruby version
+* 基本网页布局
 
-* System dependencies
+* 链接到其他网站
 
-* Configuration
+* 显示本地时间
 
-* Database creation
+* 页面间的跳转
 
-* Database initialization
+* 数据库数据显示
 
-* How to run the test suite
+* 数据库内容添加，编辑，删除
 
-* Services (job queues, cache servers, search engines, etc.)
+等功能。
 
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
