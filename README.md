@@ -40,12 +40,15 @@
 
 ![显示时间](/app/assets/images/screenshot/2按钮点击显示时间.PNG)
 
+## 关于页
 
 ### 页面间跳转
 
 导航栏实现页面间跳转功能。如跳转到关于页，如下所示：
 
 ![关于页](/app/assets/images/screenshot/4页面跳转-关于页.PNG)
+
+## 数据页
 
 ### 数据操作
 
@@ -65,6 +68,8 @@
 
 ---
 
-页面布局和部分样式利用Bootsstrap完成。
+页面布局和部分样式利用Bootstrap完成。
 
 网页中头像等图片素材来自网络。
+
+参考：Ruby On Rails官网，Stackoverflow
