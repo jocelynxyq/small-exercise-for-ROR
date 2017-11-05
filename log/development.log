@@ -5534,3 +5534,294 @@ Processing by StudentInfosController#index as HTML
   [1m[36mStudentInfo Load (0.3ms)[0m  [1mSELECT "student_infos".* FROM "student_infos"[0m
   Rendered student_infos/index.html.erb within layouts/application (1.9ms)
 Completed 200 OK in 33ms (Views: 31.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 12:31:10 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 173ms (Views: 107.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 12:31:23 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 16ms (Views: 15.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/student_infos.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 124.16.89.99 at 2017-11-05 12:31:25 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 124.16.89.99 at 2017-11-05 12:31:25 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-d2e5ccad1506299feea3a35bfb7c525e101bb3b214303715deb675fdc539948b.css?body=1" for 124.16.89.99 at 2017-11-05 12:31:25 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-688cc8fb0f7098aad3930c906da863609d857413751226d6d3c48a0b13293263.css?body=1" for 124.16.89.99 at 2017-11-05 12:31:25 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 124.16.89.99 at 2017-11-05 12:31:26 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-1d1fddf91adc38ac2045c51f0a3e05ca97d07d24d15a4dcbf705009106489e69.js?body=1" for 124.16.89.99 at 2017-11-05 12:31:26 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-87abaf8d00846da29bc5bfd6546b7ff4795b4350e2fec0af9988cde3024a3b55.css?body=1" for 124.16.89.99 at 2017-11-05 12:31:26 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/task.self-0a9cc24796687af8263b5cf756ec1ff2290f5a71f043511a3535f8797e58c1d5.js?body=1" for 124.16.89.99 at 2017-11-05 12:31:26 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-4d905ca01a79ba077f57f8c565fea41b539faf221b5e2d4912d0fe4686b5ecb7.js?body=1" for 124.16.89.99 at 2017-11-05 12:31:26 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 124.16.89.99 at 2017-11-05 12:31:26 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 221.237.89.80 at 2017-11-05 12:31:31 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.self-87abaf8d00846da29bc5bfd6546b7ff4795b4350e2fec0af9988cde3024a3b55.css?body=1" for 221.237.89.80 at 2017-11-05 12:31:31 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-d2e5ccad1506299feea3a35bfb7c525e101bb3b214303715deb675fdc539948b.css?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/student_infos.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/task.self-0a9cc24796687af8263b5cf756ec1ff2290f5a71f043511a3535f8797e58c1d5.js?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-1d1fddf91adc38ac2045c51f0a3e05ca97d07d24d15a4dcbf705009106489e69.js?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-4d905ca01a79ba077f57f8c565fea41b539faf221b5e2d4912d0fe4686b5ecb7.js?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-688cc8fb0f7098aad3930c906da863609d857413751226d6d3c48a0b13293263.css?body=1" for 221.237.89.80 at 2017-11-05 12:31:32 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 12:31:36 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 124.16.89.99 at 2017-11-05 12:31:38 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 25ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/user-d46044b029f4dfb27be06a82756ec92ba387692548995f335ffb46ec93e6f9b1.png" for 124.16.89.99 at 2017-11-05 12:31:38 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/studentInfo" for 124.16.89.99 at 2017-11-05 12:31:41 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#index as HTML
+  [1m[35mStudentInfo Load (1.8ms)[0m  SELECT "student_infos".* FROM "student_infos"
+  Rendered student_infos/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 19ms (Views: 16.7ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 221.237.89.80 at 2017-11-05 12:31:44 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 221.237.89.80 at 2017-11-05 12:31:45 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/user-d46044b029f4dfb27be06a82756ec92ba387692548995f335ffb46ec93e6f9b1.png" for 221.237.89.80 at 2017-11-05 12:31:45 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/studentInfo" for 221.237.89.80 at 2017-11-05 12:31:50 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#index as HTML
+  [1m[36mStudentInfo Load (0.3ms)[0m  [1mSELECT "student_infos".* FROM "student_infos"[0m
+  Rendered student_infos/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/about" for 221.237.89.80 at 2017-11-05 12:31:55 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 221.237.89.80 at 2017-11-05 12:31:56 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 221.237.89.80 at 2017-11-05 12:32:07 +0000
+Cannot render console from 221.237.89.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 12:33:56 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 18ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 124.16.89.99 at 2017-11-05 12:34:04 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/studentInfo" for 124.16.89.99 at 2017-11-05 12:34:06 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#index as HTML
+  [1m[35mStudentInfo Load (2.8ms)[0m  SELECT "student_infos".* FROM "student_infos"
+  Rendered student_infos/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 20ms (Views: 17.1ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 12:35:09 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 12:49:10 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 124.16.89.99 at 2017-11-05 12:49:16 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 18ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/studentInfo" for 124.16.89.99 at 2017-11-05 12:49:17 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#index as HTML
+  [1m[36mStudentInfo Load (0.4ms)[0m  [1mSELECT "student_infos".* FROM "student_infos"[0m
+  Rendered student_infos/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 13:10:49 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 307ms (Views: 299.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 124.16.89.99 at 2017-11-05 13:17:24 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/studentInfo" for 124.16.89.99 at 2017-11-05 13:17:45 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#index as HTML
+  [1m[35mStudentInfo Load (0.7ms)[0m  SELECT "student_infos".* FROM "student_infos"
+  Rendered student_infos/index.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 27ms (Views: 22.5ms | ActiveRecord: 2.9ms)
+
+
+Started GET "/student_infos/new" for 124.16.89.99 at 2017-11-05 13:18:43 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#new as HTML
+  Rendered student_infos/_form.html.erb (32.3ms)
+  Rendered student_infos/new.html.erb within layouts/application (38.5ms)
+Completed 200 OK in 93ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/student_infos" for 124.16.89.99 at 2017-11-05 13:19:36 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hE7nkMIz1jeKFD3t6PsHC84brnak2+O3V5z1fOTiEO3Xmn1/mg8uIwa4wqQuqxfhQMkOj55ukbhyaODo+uPcUA==", "student_info"=>{"name"=>"徐蕴琪", "number"=>"5", "major"=>"计算机软件与理论", "email"=>"jocelyn_1234@163.com"}, "commit"=>"添加"}
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.7ms)[0m  INSERT INTO "student_infos" ("name", "number", "major", "email", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"  [["name", "徐蕴琪"], ["number", 5], ["major", "计算机软件与理论"], ["email", "jocelyn_1234@163.com"], ["created_at", "2017-11-05 13:19:36.691053"], ["updated_at", "2017-11-05 13:19:36.691053"]]
+  [1m[36m (2.4ms)[0m  [1mCOMMIT[0m
+Redirected to https://exercise-jocelynxyq.cs50.io/student_infos/5
+Completed 302 Found in 185ms (ActiveRecord: 4.5ms)
+
+
+Started GET "/student_infos/5" for 124.16.89.99 at 2017-11-05 13:19:36 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mStudentInfo Load (0.3ms)[0m  SELECT  "student_infos".* FROM "student_infos" WHERE "student_infos"."id" = $1 LIMIT 1  [["id", 5]]
+  Rendered student_infos/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 33ms (Views: 20.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/student_infos" for 124.16.89.99 at 2017-11-05 13:19:51 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StudentInfosController#index as HTML
+  [1m[36mStudentInfo Load (0.4ms)[0m  [1mSELECT "student_infos".* FROM "student_infos"[0m
+  Rendered student_infos/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 124.16.89.99 at 2017-11-05 13:22:37 +0000
+Cannot render console from 124.16.89.99! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 35ms (Views: 33.3ms | ActiveRecord: 0.0ms)
