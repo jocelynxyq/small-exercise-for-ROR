@@ -19,3 +19,43 @@
 
 等功能。
 
+项目在Cloud9上完成，为了方便部署，数据库采用Postgresql。
+
+因为本来想部署到Heroku，但是目前官网只能访问注册页面，无法打开验证邮件的链接和登陆页面，故无法提供外网访问链接，提供网页截图如下：
+### 网站主页
+
+![主页](/app/assets/images/screenshot/1主页.PNG)
+
+页面中有两个按钮，分别实现超链接跳转和显示当前时间的功能。如下：
+
+超链接跳转
+
+![超链接](/app/assets/images/screenshot/3按钮点击跳转超链接.PNG)
+
+
+显示当前时间
+
+![显示时间](/app/assets/images/screenshot/2按钮点击显示时间.PNG)
+
+
+导航栏实现页面间跳转功能。如跳转到关于页，如下所示：
+
+![关于页](/app/assets/images/screenshot/4页面跳转-关于页.PNG)
+
+数据页显示当前数据库中的数据，数据以学生信息表为情景建立，有姓名，学号，专业和邮箱四个字段。数据页如下所示：
+
+![数据页](/app/assets/images/screenshot/5数据展示-数据页.PNG)
+
+可点击编辑和删除进行指定数据和行的编辑和删除操作。
+
+可点击添加进行数据的添加操作。如下所示：
+
+![数据添加](/app/assets/images/screenshot/6数据添加-数据页-数据页.PNG)
+
+添加数据行后，数据列表如下：
+
+![数据更新](/app/assets/images/screenshot/7数据更新-数据页.PNG)
+
+页面布局和部分样式利用Bootsstrap完成。
+
+网页中头像等图片素材来自网络。
