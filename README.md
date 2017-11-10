@@ -2,9 +2,11 @@
 
 ---
 
-本项目为中国科学院大学高级软件工程课程第一次作业内容。
+本项目为中国科学院大学高级软件工程课程第一次作业。
 
-内容：在`Ruby On Rails`框架中实现一个简单主页，完成
+## 内容  
+
+在`Ruby On Rails`框架中实现一个简单主页，完成
 
 * 基本网页布局
 
@@ -22,17 +24,19 @@
 
 欢迎访问！
 
-说明：  
+## 说明  
 
-项目在Cloud9上完成，为了方便部署，数据库采用Postgresql。  
+* 项目在Cloud9上完成，为了方便部署，数据库采用Postgresql。  
 
-基本网页布局利用`boostrap`完成。超链接利用页面html的a标签的href属性，显示当前时间利用js，定义button的onclick方法完成。  
+* 基本网页布局利用`boostrap`完成。超链接利用页面html的a标签的href属性，显示当前时间利用js，定义button的onclick方法完成。  
 
-页面间的跳转通过在route.rb中定义路由，在相应controller中定义方法，由views组织页面完成。  
+* 页面间的跳转通过在route.rb中定义路由，在相应controller中定义方法，由views组织页面完成。  
 
-学生信息表的定义利用rails generate scaffold完成，自动生成的页面模板中加入了一些布局。
+* 学生信息表的定义利用rails generate scaffold完成，自动生成的页面模板中加入了一些布局。
 
-另附网页截图如下：
+* 网页中头像等图片素材来自网络。
+
+另附网页截图：
 
 ## 网站主页
 
@@ -81,12 +85,10 @@
 
 ---
 
-截图文件放置在app/assets/images/screenshot文件夹下
+**参考资料**  
 
-项目主文件夹为app文件夹，配置及路由定义文件在config文件夹。
+[Ruby on Rails Tutorial](https://www.railstutorial.org/book/_single-page)  
 
-页面布局和部分样式利用Bootstrap完成。
+[Ruby on Rails Guides](http://guides.rubyonrails.org/command_line.html)  
 
-网页中头像等图片素材来自网络。
-
-参考：Ruby On Rails官网，Stackoverflow
+[Rails Web应用开发实战－学生选课系统基础版（二）](http://blog.csdn.net/ppp8300885/article/details/52601560)   
