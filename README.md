@@ -1,9 +1,10 @@
 # 高级软件工程第一次作业
+
 ---
 
 本项目为中国科学院大学高级软件工程课程第一次作业内容。
 
-项目主体：在Ruby On Rails框架中实现一个简单主页，完成
+内容：在`Ruby On Rails`框架中实现一个简单主页，完成
 
 * 基本网页布局
 
@@ -15,15 +16,23 @@
 
 * 数据库数据显示
 
-* 数据库内容添加，编辑，删除   等功能。
+* 数据库内容添加，编辑，删除等功能。
 
-项目在Cloud9上完成，为了方便部署，数据库采用Postgresql。
+**项目部署在heroku上，地址：https://jocelynpage.herokuapp.com/**
 
-![c9](/app/assets/images/screenshot/0Cloud9.PNG)
+欢迎访问！
 
-本来想将项目部署到Heroku，但是目前Heroku官网只能访问注册页面，无法打开验证邮件的链接和登陆页面，故无法注册成功账号从而部署来提供外网访问链接。
+说明：  
 
-故提供网页截图如下：
+项目在Cloud9上完成，为了方便部署，数据库采用Postgresql。  
+
+基本网页布局利用`boostrap`完成。超链接利用页面html的a标签的href属性，显示当前时间利用js，定义button的onclick方法完成。  
+
+页面间的跳转通过在route.rb中定义路由，在相应controller中定义方法，由views组织页面完成。  
+
+学生信息表的定义利用rails generate scaffold完成，自动生成的页面模板中加入了一些布局。
+
+另附网页截图如下：
 
 ## 网站主页
 
